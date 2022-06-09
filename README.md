@@ -1,6 +1,6 @@
 # Team codeBlooded
 
-#### Winner, 2nd Runners up at HackRx 2020.
+### Winner, 2nd Runners up at HackRx 2020.
 
 ![Winner](Repository-Assests/winners_square.jpg)
 
