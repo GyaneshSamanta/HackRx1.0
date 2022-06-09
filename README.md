@@ -1,10 +1,10 @@
 # Team codeBlooded
 
-## Winner, 2nd Runners up at HackRx 2020.
+#### Winner, 2nd Runners up at HackRx 2020.
 
-![Winner](Repository-Assets/Winners-square.jpg)
+![Winner](Repository-Assests/winners_square.jpg)
 
-Official Entry of Team codeBlooded, from SRM Institute of Science and Technology, Kattankulathur, to HackRx, by Health Rx Bajaj Finserv, that secured third position. <br>
+Official Entry of Team codeBlooded, from SRM Institute of Science and Technology, Kattankulathur, to HackRx, by Health Rx Bajaj Finserv, that secured 2nd runners up. <br>
 ![Collaborators](https://img.shields.io/badge/collaborators-4-red)
 ![Status](https://img.shields.io/badge/status-complete-green)
 ![Issues](https://img.shields.io/badge/issues-0-blue)
